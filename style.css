@@ -37,6 +37,7 @@ i.close {
     margin-top: 103px;
     margin-bottom: 121px;
     width: 923px;
+    overflow: hidden;
 }
 
 
