@@ -461,7 +461,7 @@ input {
         height: 30px;
         width: 30px;
         position: absolute;
-        left: 321px;
+        left: 310px;
         top: 12px;
     }
 
@@ -507,9 +507,12 @@ input {
     }
 
     .header {
+        /* border: 1px solid red; */
+        /* max-width: 375px; */
         justify-content: space-around;
         align-items: center;
         padding-top: 39px;
+        width: auto;
 
 
 
@@ -641,7 +644,7 @@ input {
 
 
     .zoned-section {
-        width: 375px;
+        max-width: 100%;
         margin: 0 auto;
         display: flex;
         justify-content: space-between;
