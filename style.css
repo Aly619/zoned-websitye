@@ -31,13 +31,14 @@ i.close {
     justify-content: space-between;
     align-items: center;
     /* border: 1px solid red; */
+    overflow: hidden;
 }
 
 .mask-img {
     margin-top: 103px;
     margin-bottom: 121px;
     width: 923px;
-    overflow: hidden;
+   
 }
 
 
