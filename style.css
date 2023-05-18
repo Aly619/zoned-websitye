@@ -25,7 +25,7 @@ i.close {
 
 /* ================================================= */
 .bgimg {
-    
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -38,7 +38,7 @@ i.close {
     margin-top: 103px;
     margin-bottom: 121px;
     width: 923px;
-   
+
 }
 
 
@@ -59,7 +59,8 @@ i.close {
 
 
 }
-.header img{
+
+.header img {
     padding-left: 100px;
 }
 
@@ -411,14 +412,18 @@ input {
     justify-content: center;
     align-items: center;
 }
+
 .close {
     display: none;
 }
+
 /* ======================Responsive=design===================== */
 
 @media(max-width: 375px) {
 
     /* ==================humburger===================== */
+
+
     .header-links .ulitems {
         height: 0vh;
         position: fixed;
@@ -497,12 +502,15 @@ input {
 
     .header img {
         width: 95px;
+        
+
     }
 
     .header {
         justify-content: space-around;
         align-items: center;
         padding-top: 39px;
+
 
 
     }
